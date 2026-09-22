@@ -1,0 +1,23 @@
+{
+  "stories": [
+    {
+      "slug": "the-weight-of-wings",
+      "title": "The Weight of Wings",
+      "genre": "Romance",
+      "description": "He can create anything. He chooses to earn everything. She survives for others. Together they begin to learn what it actually means to live.",
+      "chapters": [
+        { "number": 1, "title": "Chapter 1", "file": "chapters/the-weight-of-wings/01.txt" },
+        { "number": 2, "title": "Chapter 2", "file": "chapters/the-weight-of-wings/02.txt" }
+      ]
+    },
+    {
+      "slug": "ordinary-light",
+      "title": "Ordinary Light",
+      "genre": "Slice of life",
+      "description": "Two people discovering that ordinary moments can hold extraordinary amounts of light.",
+      "chapters": [
+        { "number": 1, "title": "Chapter 1", "file": "chapters/ordinary-light/01.txt" }
+      ]
+    }
+  ]
+}
