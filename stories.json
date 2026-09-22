@@ -6,8 +6,96 @@
       "genre": "Romance",
       "description": "He can create anything. He chooses to earn everything. She survives for others. Together they begin to learn what it actually means to live.",
       "chapters": [
-        { "number": 1, "title": "Chapter 1", "file": "chapters/the-weight-of-wings/01.txt" },
-        { "number": 2, "title": "Chapter 2", "file": "chapters/the-weight-of-wings/02.txt" }
+        {
+          "number": 1,
+          "title": "Chapter 1",
+          "file": "chapters/the-weight-of-wings/01.txt"
+        },
+        {
+          "number": 2,
+          "title": "Chapter 2",
+          "file": "chapters/the-weight-of-wings/02.txt"
+        },
+        {
+          "number": 3,
+          "title": "Chapter 3",
+          "file": "chapters/the-weight-of-wings/03.txt"
+        },
+        {
+          "number": 4,
+          "title": "Chapter 4",
+          "file": "chapters/the-weight-of-wings/04.txt"
+        },
+        {
+          "number": 5,
+          "title": "Chapter 5",
+          "file": "chapters/the-weight-of-wings/05.txt"
+        },
+        {
+          "number": 6,
+          "title": "Chapter 6",
+          "file": "chapters/the-weight-of-wings/06.txt"
+        },
+        {
+          "number": 7,
+          "title": "Chapter 7",
+          "file": "chapters/the-weight-of-wings/07.txt"
+        },
+        {
+          "number": 8,
+          "title": "Chapter 8",
+          "file": "chapters/the-weight-of-wings/08.txt"
+        },
+        {
+          "number": 9,
+          "title": "Chapter 9",
+          "file": "chapters/the-weight-of-wings/09.txt"
+        },
+        {
+          "number": 10,
+          "title": "Chapter 10",
+          "file": "chapters/the-weight-of-wings/10.txt"
+        },
+        {
+          "number": 11,
+          "title": "Chapter 11",
+          "file": "chapters/the-weight-of-wings/11.txt"
+        },
+        {
+          "number": 12,
+          "title": "Chapter 12",
+          "file": "chapters/the-weight-of-wings/12.txt"
+        },
+        {
+          "number": 13,
+          "title": "Chapter 13",
+          "file": "chapters/the-weight-of-wings/13.txt"
+        },
+        {
+          "number": 14,
+          "title": "Chapter 14",
+          "file": "chapters/the-weight-of-wings/14.txt"
+        },
+        {
+          "number": 15,
+          "title": "Chapter 15",
+          "file": "chapters/the-weight-of-wings/15.txt"
+        },
+        {
+          "number": 16,
+          "title": "Chapter 16",
+          "file": "chapters/the-weight-of-wings/16.txt"
+        },
+        {
+          "number": 17,
+          "title": "Chapter 17",
+          "file": "chapters/the-weight-of-wings/17.txt"
+        },
+        {
+          "number": 18,
+          "title": "Chapter 18",
+          "file": "chapters/the-weight-of-wings/18.txt"
+        }
       ]
     },
     {
@@ -16,7 +104,36 @@
       "genre": "Slice of life",
       "description": "Two people discovering that ordinary moments can hold extraordinary amounts of light.",
       "chapters": [
-        { "number": 1, "title": "Chapter 1", "file": "chapters/ordinary-light/01.txt" }
+        {
+          "number": 1,
+          "title": "Chapter 1",
+          "file": "chapters/ordinary-light/01.txt"
+        },
+        {
+          "number": 2,
+          "title": "Chapter 2",
+          "file": "chapters/ordinary-light/02.txt"
+        },
+        {
+          "number": 3,
+          "title": "Chapter 3",
+          "file": "chapters/ordinary-light/03.txt"
+        },
+        {
+          "number": 4,
+          "title": "Chapter 4",
+          "file": "chapters/ordinary-light/04.txt"
+        },
+        {
+          "number": 5,
+          "title": "Chapter 5",
+          "file": "chapters/ordinary-light/05.txt"
+        },
+        {
+          "number": 6,
+          "title": "Chapter 6",
+          "file": "chapters/ordinary-light/06.txt"
+        }
       ]
     }
   ]
